@@ -4,11 +4,11 @@ Create Cart using ReactJS
 
 Functionalities:-
 
-Increase quantity of items in cart
-Decrease quantity of items in cart
-Delete item
-Total items in cart
-Total amount
+* Increase quantity of items in cart
+* Decrease quantity of items in cart
+* Delete item
+* Total items in cart
+*Total amount
 
 
 # Technologies-Used
