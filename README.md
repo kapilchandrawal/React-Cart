@@ -8,7 +8,7 @@ Functionalities:-
 * Decrease quantity of items in cart
 * Delete item
 * Total items in cart
-*Total amount
+* Total amount
 
 
 # Technologies-Used
